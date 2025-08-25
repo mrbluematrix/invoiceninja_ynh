@@ -58,7 +58,7 @@ ram.runtime = "50M"
     [resources.sources]
     [resources.sources.main]
     url = "https://github.com/invoiceninja/invoiceninja/archive/refs/tags/v4.5.46.zip"
-    sha256 = ""
+    sha256 = "52134eb70e173f9a4ec4d87e56fc2e48293dcfd76955a104d93fc5a39e26d529"
 
     [resources.sources.phantomjs]
     url = "https://github.com/ariya/phantomjs/archive/0a0b0facb16acfbabb7804822ecaf4f4b9dce3d2.tar.gz"
