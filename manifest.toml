@@ -58,7 +58,7 @@ ram.runtime = "50M"
     [resources.sources]
     [resources.sources.main]
     url = "https://qr.booper.eu/imageupload/demo/invoiceninja-4.5.18.zip"
-    sha256 = "54ba1cd5747892b346684294dc3512541dc86c6d67bc28126bcd3bf6c206b0d2"
+    sha256 = "cfb29036355aee5c0c88bc0c978176ea2f632b35ff5dd9030331d3587b02a311"
 
     [resources.sources.phantomjs]
     url = "https://github.com/ariya/phantomjs/archive/0a0b0facb16acfbabb7804822ecaf4f4b9dce3d2.tar.gz"
