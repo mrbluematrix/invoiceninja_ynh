@@ -58,7 +58,7 @@ ram.runtime = "50M"
     [resources.sources]
     [resources.sources.main]
     url = "https://qr.booper.eu/imageupload/demo/ninja-v4.5.18.zip"
-    sha256 = "717f3bfb4f8dd5c08d6cac2ef8bd25cb85b289b2f3a3ff92a5f9fc2673692655"
+    sha256 = "f633d841df4bfbcedeea07c846749444ecd5c080fa93009846c62cf193f1bb93"
 
     [resources.sources.phantomjs]
     url = "https://github.com/ariya/phantomjs/archive/0a0b0facb16acfbabb7804822ecaf4f4b9dce3d2.tar.gz"
