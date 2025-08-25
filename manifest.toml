@@ -57,7 +57,7 @@ ram.runtime = "50M"
 [resources]
     [resources.sources]
     [resources.sources.main]
-    url = "https://qr.booper.eu/imageupload/demo/invoiceninja-4.5.18_2.zip"
+    url = "https://web.archive.org/web/20200830190131if_/https://download.invoiceninja.com/ninja-v4.5.18.zip"
     sha256 = "717f3bfb4f8dd5c08d6cac2ef8bd25cb85b289b2f3a3ff92a5f9fc2673692655"
 
     [resources.sources.phantomjs]
